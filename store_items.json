@@ -1,4 +1,14 @@
 {
-  "4A5B6C7D": {"name": "Red Apple", "price": 1.50},
-  "04E2A1B2": {"name": "Cold Milk", "price": 3.99}
+  "5ab12727524189": {
+    "name": "Organic Banana",
+    "price": 0.75
+  },
+  "04E2A1B2": {
+    "name": "Toy Race Car",
+    "price": 5.00
+  },
+  "A1B2C3D4": {
+    "name": "Apple Juice",
+    "price": 2.25
+  }
 }
