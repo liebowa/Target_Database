@@ -1,7 +1,7 @@
 {
   "0001": {
     "name": "Organic Banana",
-    "price": 0.75
+    "price": 1.75
   },
   "0003": {
     "name": "Toy Race Car",
@@ -12,6 +12,7 @@
     "price": 2.25
   }
 }
+
 
 
 
