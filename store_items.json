@@ -1,15 +1,16 @@
 {
-  "5AB12727524189": {
+  "Product:1": {
     "name": "Organic Banana",
     "price": 0.75
   },
-  "04E2A1B2": {
+  "Product:2": {
     "name": "Toy Race Car",
     "price": 5.00
   },
-  "A1B2C3D4": {
+  "Product:3": {
     "name": "Apple Juice",
     "price": 2.25
   }
 }
+
 
