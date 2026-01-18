@@ -1,16 +1,17 @@
 {
-  "Product:1": {
+  "0001": {
     "name": "Organic Banana",
     "price": 0.75
   },
-  "Product:2": {
+  "0003": {
     "name": "Toy Race Car",
     "price": 5.00
   },
-  "Product:3": {
+  "0004": {
     "name": "Apple Juice",
     "price": 2.25
   }
 }
+
 
 
