@@ -10,10 +10,9 @@
   "0004": {
     "name": "Apple Juice",
     "price": 2.25
+  },
+    "0008": {
+    "name": "Star wars Lego Set",
+    "price": 52.95
   }
 }
-
-
-
-
-
